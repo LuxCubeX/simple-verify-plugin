@@ -1,0 +1,5 @@
+name: Verify
+version: '${project.version}'
+main: me.milk_and_cereal.verify.VerifyPlugin
+api-version: 1.19
+authors: [Milk_And_Cereal]
